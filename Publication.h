@@ -4,8 +4,10 @@
 #include <string>
 using namespace std;
 
+// Create the base class Publication
 class Publication {
 
+	// Declare the public methods and attributes
 	public:
 		// Declare two functions getData and putData
 		
