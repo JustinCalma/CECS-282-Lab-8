@@ -3,8 +3,10 @@
 #include <iostream>
 using namespace std;
 
+// Create a base class Sales
 class Sales {
 
+	// Declare the public methods and attribute
 	public:
 		// Declare functions getData and putData
 		
